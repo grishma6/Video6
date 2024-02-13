@@ -1,0 +1,39 @@
+WEBVTT
+
+
+00:00:15.960 --> 00:00:29.659
+Hi Professor, this is Grishman today. Oh, as you are given 2 codes to implement, we have the 2 one and this is the first one for the ninth paste, a method using the.
+
+00:00:29.659 --> 00:00:39.811
+It's Kethe Lawn Library for this, you need to use a dataset which is, available that you have given, which is in the name of class and the other one is trained tested to create the training and testing bar to evaluate it.
+
+00:00:39.811 --> 00:00:48.711
+So that I'm going to explain the Call for this in this I am importing the required packages to create the arrays which are panders and numpy.
+
+00:00:48.711 --> 00:01:04.862
+Then I'm lowering the dataset by reading the given glass CSV file, or using the functions like Panda's read CSV method which enable you to work with files effectively.
+
+00:01:04.862 --> 00:01:12.910
+Then I'm displaying the structures of the data from given file using the DF head. My third, the head method returns a simplified number of rows, string and, from the top and this is how I'm giving it.
+
+00:01:12.910 --> 00:01:26.611
+Then you can see the output of it, which for which the currency for the night space I've got as 37.2 one for the second one.
+
+00:01:26.611 --> 00:01:38.311
+Which is the SVM method using the ski kit library, in which the data set that we are using is the train test display to create training and testing part.
+
+00:01:38.311 --> 00:01:45.160
+In this program I've used the same data set from the above and the steps that I've taken to import the libraries and the, read the data sets I mentioned about in the question one.
+
+00:01:45.160 --> 00:01:56.460
+Then I have imported 2 models from this Kiket learned library. This module includes implement the support vector classification algorithm.
+
+00:01:56.460 --> 00:02:17.961
+Then this model implements the linear support vector. Which is a variation of SBC algorithm that with a linear decision boundary instead of a nonlinear boundary.
+
+00:02:17.961 --> 00:02:25.909
+The line treats the model on the training data set which is X train and XY and the other one is you have asked a question as which algorithm you got a better accuracy, you know, can identify why it's linear SVM as which algorithm you got a better accuracy, you can identify why it's linear SVM as it has better accuracy, score than a Goshen, nice place
+
+00:02:25.909 --> 00:02:33.909
+as the accuracy of knife base is 37.1 whereas for the SVM that is 51.1 6 2.
+
